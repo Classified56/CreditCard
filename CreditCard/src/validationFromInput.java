@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class validation
+public class validationFromInput
 	{
 		static Scanner userInput = new Scanner(System.in);
 		public static void main(String[] args)
